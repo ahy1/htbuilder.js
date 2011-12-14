@@ -1,1 +1,6 @@
-Coming more...
+
+This library is supposed to simplify dynamic HTML generation.
+
+It is still in an early stage of development. Incompatible changes should be expected.
+
+No tutorial or reference has been made yet. For now, you have to look in the samples directory og in the source code to learn.
